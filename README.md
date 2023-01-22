@@ -35,9 +35,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Habits é um projeto focado em auxiliar no rastreio de hábitos.
 
+- [Visite o projeto online](https://nicholassouto.github.io/NLW-Explorer-Setup/)
+
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/3wX5dZzSrA2oL7Wx1dBvnQ/Habits-(e)-(Community)?node-id=6%3A910&t=CcIsLdj3I2qKObFM-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/3wX5dZzSrA2oL7Wx1dBvnQ/Habits-(e)-(Community)?node-id=6%3A910&t=CcIsLdj3I2qKObFM-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
